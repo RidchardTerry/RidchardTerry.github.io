@@ -2,16 +2,15 @@
 
 **Project description:** Burning Sword: Death Sun is a Wuxia hack n' slash game. Play as the great fighter, Zhāng Yì Xiàn, who seeks revenge for the death of his family at the hands of China's powerful Gāo Tiān Qí. Dive into a tale of revenge, redemption, martial arts, and intense swordplay.
 
-## feature I've been designed for this project
+# feature I've been designed for this project
 
-### Combat design
+### Enemy design
+character I've been involved
+### Halberd Elite
 
-## Enemy design
-# Halberd Elite
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dj_0Zz3eOhw?list=RDGMEMpBkrRsgmbnoWVzfUhAA61gVMbTHN1eWN7iU" title="The Cruel Wars | The Longest Johns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://youtu.be/QeUVkJuvNiA" frameborder="0" allowfullscreen></iframe>
-
-I've involved every process form start to finished for designer<br>
+I've been involved every process form start to finished for designer<br>
 - Design document<br> 
 - Craft prototype<br>
 - Craft polished version
@@ -19,21 +18,24 @@ I've involved every process form start to finished for designer<br>
 - QA<br>
 <br>
 
-# Elder Of The Northern Mountain
+### Elder Of The Northern Mountain "GaotianXi"
 
 <iframe width="560" height="315" src="https://youtu.be/ji0s8Ym7c9Y?t=304" allowfullscreen></iframe>
 
-I've involved<br>
-- Design Some of animation (I can do art too)<br> 
+I've been involved<br>
+- Design Some of animations as concept art (I can do art too)<br> 
 - Craft prototype<br>
 - Tune and develop system of boss (The needle missiles)<br>
 - QA<br>
 <br>
 
-# 2 Unpublished bosses (one is an nartial art warrior and another one is a creature)
+### 2 Unpublished bosses (one is an nartial art warrior and another one is a creature)
 I've involved every process form start to finished for designer along with feature of that character used<br>
 
-## Deflect / Parry and counter attack system 
+## Combat design
+Most of my duty is around the combat, Since it's hack and slash game.
+
+### Deflect / Parry and counter attack system 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -44,7 +46,7 @@ I've involved<br>
 - QA<br>
 <br>
 
-## Special animation interaction override system 
+### Special animation interaction override system 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -55,7 +57,7 @@ I've involved<br>
 - QA<br> 
 <br>
 
-## Perfect dodge system 
+### Perfect dodge system 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -64,7 +66,7 @@ I've involved<br>
 - Design Document
 - Setup an QA
 
-## Crowd fight of general enemy system 
+### Crowd fight of general enemy system 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -76,7 +78,7 @@ I've involved<br>
 - QA<br> 
 <br>
 
-## design drain mechanics system
+### design drain mechanics system
 This feature has 3 versions of it. I've been involved the latest 2 versions. (they're all published)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -98,7 +100,9 @@ I've involved<br>
 - QA<br>
 <br>
 
-## design player skill trees / player progression (Unpublished yet)
+## Other Feature and duty I've worked on it
+
+### design player skill trees / player progression (Unpublished yet)
 This picture contain demo version of Burning Sword Death Sun in Steam demo. Not 100% of the work I've did.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -106,10 +110,27 @@ This picture contain demo version of Burning Sword Death Sun in Steam demo. Not 
 I've involved<br>
 - Design player's stat progression and how to get it<br>
 - Design all skill in skill trees (around 80 skils)<br> 
-- Located it as a rewards in each levels and quest<br> 
+- Located it as a rewards in each levels and quest<br>
+- Keep this document up to dated after add new feature into projects<br>
 - Localized Thai to English version<br>
 <br>
 
-##
+###Player HUD Version 2
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+I've involved<br>
+- UX Wireframe
+- UI Art (Player stats, boss bar, equipped skills)
+
+### UE5 localization tools
+I’m experienced in working with localization dashboards and managing string tables 
+
+###Level design : Level demo for test
+
+<iframe width="560" height="315" src="https://youtu.be/QeUVkJuvNiA" frameborder="0" allowfullscreen></iframe>
+
+I've been involved with blocking process and add enemies into combat zone. It's not a good level, have a lot of thing to improve but I familiar with working and communicating with environment teams to support a smooth production pipeline.
+
 
 You can try this game prologue chapter here [Burning Sword Death Sun Steam Demo](https://store.steampowered.com/app/2561460/Burning_Sword_Death_Sun/).
