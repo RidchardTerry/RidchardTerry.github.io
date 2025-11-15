@@ -67,7 +67,17 @@ I've involved
 
 after player dodge an attack in the blink of an eye before attack land, the time slow down except the player<br><br>
 I've involved
-- Design Document<br>
+- Design document<br>
+- Setup an QA<br>
+
+### Hitstop System
+
+<img src="images/Special interaction small.gif?raw=true"/>
+
+when the attack of player landed on enemy its need the reaction that designer can tune in freeze frame style and freeze animontage style depend of what's better<br><br>
+I've involved
+- Design document<br>
+- tune and develop<br>
 - Setup an QA<br>
 
 ### General enemy and Mini boss Design
