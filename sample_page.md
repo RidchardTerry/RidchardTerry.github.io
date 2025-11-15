@@ -1,26 +1,27 @@
 ## ฺBurning Sword Death Sun
 
-**Project description:** Burning Sword: Death Sun is a Wuxia hack n' slash game. Play as the great fighter, Zhāng Yì Xiàn, who seeks revenge for the death of his family at the hands of China's powerful Gāo Tiān Qí. Dive into a tale of revenge, redemption, martial arts, and intense swordplay.
+**Project description:** Burning Sword: Death Sun is a Wuxia hack n' slash game. Play as the great fighter, Zhāng Yì Xiàn, who seeks revenge for the death of his family at the hands of China's powerful Gāo Tiān Qí. Dive into a tale of revenge, redemption, martial arts, and intense swordplay.<br>
+You can try this game prologue chapter here [Burning Sword Death Sun Steam Demo](https://store.steampowered.com/app/2561460/Burning_Sword_Death_Sun/).<br>
 
 # feature I've been designed for this project
 
-### Enemy design
-character I've been involved
+### Main Boss design
+characters I've been involved
 ### Halberd Elite
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dj_0Zz3eOhw?list=RDGMEMpBkrRsgmbnoWVzfUhAA61gVMbTHN1eWN7iU" title="The Cruel Wars | The Longest Johns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1840" height="1035" src="https://www.youtube.com/embed/QeUVkJuvNiA" title="Burning Sword: Death Sun - Elite Guard Of Temple Boss Fight (Alpha) | Thai Dub [4K 60FPS] (PC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I've been involved every process form start to finished for designer<br>
 - Design document<br> 
 - Craft prototype<br>
-- Craft polished version
+- Craft polished version<br>
 - Tune and develop system of boss (Countermeasure and watching player action)<br> 
 - QA<br>
 <br>
 
 ### Elder Of The Northern Mountain "GaotianXi"
 
-<iframe width="560" height="315" src="https://youtu.be/ji0s8Ym7c9Y?t=304" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/ji0s8Ym7c9Y?t=304" allowfullscreen></iframe>----------------------------------
 
 I've been involved<br>
 - Design Some of animations as concept art (I can do art too)<br> 
@@ -50,7 +51,8 @@ I've involved<br>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Improve the interactions system (block / deflect / parry and counter attack / hurt) of player and any enemies. Make it can play special animontage if get attacked by special attack or any use case for prototype, improve quality of life for designer team and project.
+Form the video, its show that player can counter attack in manys animation base on the parried attack.<br>
+Improve the interactions system (block / deflect / parry and counter attack / hurt) of player and any enemies. Make it can play special animontage if get attacked by special attack or any use case for prototype, improve quality of life for designer team and project.<br>
 I've involved<br>
 - Design document<br> 
 - Use it as a tool for create design (Of course, I'm designer ;).)<br> 
@@ -61,20 +63,29 @@ I've involved<br>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-after player dodge an attack in the blink of an eye before attack land, the time slow down
+after player dodge an attack in the blink of an eye before attack land, the time slow down<br>
 I've involved<br>
-- Design Document
-- Setup an QA
+- Design Document<br>
+- Setup an QA<br>
+
+### General enemy and Mini boss Design
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+Design flowchart and mindmap of enemy about archetypes, modifiers, diffculty and design goal of each enemy document<br>
+I also got a permit to share the mindmap that i created  to communicated with other team (Concept art, Programmer, Animator) Here<br>
+[Burning Sword Death Sun Enemy's design mindmap](https://miro.com/app/board/uXjVJqSicZA=/?share_link_id=829933360085)<br>
+
 
 ### Crowd fight of general enemy system 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Queqe up the attack sequence of a group of enemies, make it fair and playable
+Queqe up the attack sequence of a group of enemies, make it fair and playable<br>
 I've involved<br>
 - Design document<br> 
-- Tune and development
-- Behavior trees
+- Tune and development<br>
+- Behavior trees<br>
 - QA<br> 
 <br>
 
@@ -83,7 +94,7 @@ This feature has 3 versions of it. I've been involved the latest 2 versions. (th
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Version 2 : after break enemy's guard it will appear the orbs, player can press drain button to perform drain
+Version 2 : after break enemy's guard it will appear the orbs, player can press drain button to perform drain<br>
 I've involved<br>
 - Design document<br> 
 - Tune and development<br>
@@ -93,7 +104,7 @@ I've involved<br>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Version 3 : Pair animation, then drain and executed enemy
+Version 3 : Pair animation, then drain and executed enemy<br>
 I've involved<br>
 - Tune and develop, duo teamwork with programmer since it very delicated<br>
 - Set up<br>
@@ -120,17 +131,19 @@ I've involved<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 I've involved<br>
-- UX Wireframe
-- UI Art (Player stats, boss bar, equipped skills)
+- UX Wireframe<br>
+- UI Art (Player stats, boss bar, equipped skills)<br>
 
 ### UE5 localization tools
-I’m experienced in working with localization dashboards and managing string tables 
+I’m experienced in working with localization dashboards and managing string tables <br>
+<br>
 
 ###Level design : Level demo for test
 
 <iframe width="560" height="315" src="https://youtu.be/QeUVkJuvNiA" frameborder="0" allowfullscreen></iframe>
 
-I've been involved with blocking process and add enemies into combat zone. It's not a good level, have a lot of thing to improve but I familiar with working and communicating with environment teams to support a smooth production pipeline.
+I've been involved with blocking process and add enemies into combat zone. It's not a good level, have a lot of thing to improve but I familiar with working and communicating with environment teams to support a smooth production pipeline.<br>
 
+###QA
+I’m good at identifying issues and often take responsibility for QA-ing features designed by my co-worker. I also cam handle full feature re-setups after programmer finished refactors—tasks that require patience and attention to detail. My results solid but still have some mistake (of course I’m still human). When errors reported form what I did involved, I take ownership and fix them.
 
-You can try this game prologue chapter here [Burning Sword Death Sun Steam Demo](https://store.steampowered.com/app/2561460/Burning_Sword_Death_Sun/).
