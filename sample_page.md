@@ -72,7 +72,7 @@ I've involved
 
 ### General enemy and Mini boss Design
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BurningSword-MindMap.png?raw=true"/>
 
 Design flowchart and mindmap of enemy about archetypes, modifiers, diffculty and design goal of each enemy document<br>
 I also got a permit to share the mindmap that i created  to communicated with other team (Concept art, Programmer, Animator) Here<br>
@@ -81,7 +81,7 @@ I also got a permit to share the mindmap that i created  to communicated with ot
 
 ### Crowd fight of general enemy system 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/EQS_small.gif?raw=true"/>
 
 Make crowd fight less chaos and weight their attack token with logics. in the GIF show the shielder run into front of swordman and become the nearest one. So he is the one that attack player while the others is trying to surround player and wait for their 
 turn to attack player, make game more fair and playable. This also can be use for enemy's unite attacking<br><br>
@@ -95,7 +95,7 @@ I've involved
 ### design drain mechanics system
 This feature has 3 versions of it. I've been involved the latest 2 versions. (they're all published)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/drainV2_small.gif?raw=true"/>
 
 Version 2 : after break enemy's guard it will appear the orbs, player can press drain button to perform drain<br><br> 
 I've involved
@@ -119,7 +119,7 @@ I've involved
 ### design player skill trees / player progression (Unpublished yet)
 This picture contain demo version of Burning Sword Death Sun in Steam demo. Not 100% of the work I've did.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BurningSword-OldSkillTree?raw=true"/>
 
 I've involved
 - Design player's stat progression and how to get it<br>
