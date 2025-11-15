@@ -101,7 +101,7 @@ Version 2 : after break enemy's guard it will appear the orbs, player can press 
 I've involved
 - Design document<br> 
 - Tune and development<br>
-- Balance stat and set up in currently enemy on that time<br>
+- Balance stat and setup in currently enemy on that time<br>
 - QA<br>
 <br>
 
@@ -110,7 +110,7 @@ I've involved
 Version 3 : Pair animation, then drain and executed enemy<br><br>
 I've involved
 - Tune and develop, duo teamwork with programmer since it very delicated<br>
-- Set up<br>
+- Setup<br>
 - QA<br>
 <br>
 
