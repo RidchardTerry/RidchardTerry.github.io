@@ -70,6 +70,7 @@ I've involved
 - Design document<br>
 - Setup an QA<br>
 
+
 ### Hitstop System
 
 <img src="images/hitstopsmall.gif?raw=true"/>
@@ -79,28 +80,6 @@ I've involved
 - Design document<br>
 - tune and develop<br>
 - Setup an QA<br>
-
-### General enemy and Mini boss Design
-
-<img src="images/BurningSword-MindMap.png?raw=true"/>
-
-Design flowchart and mindmap of enemy about archetypes, modifiers, diffculty and design goal of each enemy document<br>
-I also got a permit to share the mindmap that i created  to communicated with other team (Concept art, Programmer, Animator) Here<br>
-[Burning Sword Death Sun Enemy's design mindmap](https://miro.com/app/board/uXjVJqSicZA=/?share_link_id=829933360085)<br>
-
-
-### Crowd fight of general enemy system 
-
-<img src="images/EQS_small.gif?raw=true"/>
-
-Make crowd fight less chaos and weight their attack token with logics. in the GIF show the shielder run into front of swordman and become the nearest one. So he is the one that attack player while the others is trying to surround player and wait for their 
-turn to attack player, make game more fair and playable. This also can be use for enemy's unite attacking<br><br>
-I've involved
-- Design document<br> 
-- Tune and development<br>
-- Behavior trees set up<br>
-- QA<br> 
-<br>
 
 ### design drain mechanics system
 This feature has 3 versions of it. I've been involved the latest 2 versions. (they're all published)
@@ -123,6 +102,27 @@ I've involved
 - Setup<br>
 - QA<br>
 <br>
+
+### Crowd fight of general enemy system 
+
+<img src="images/EQS_small.gif?raw=true"/>
+
+Make crowd fight less chaos and weight their attack token with logics. in the GIF show the shielder run into front of swordman and become the nearest one. So he is the one that attack player while the others is trying to surround player and wait for their 
+turn to attack player, make game more fair and playable. This also can be use for enemy's unite attacking<br><br>
+I've involved
+- Design document<br> 
+- Tune and development<br>
+- Behavior trees set up<br>
+- QA<br> 
+<br>
+
+### General enemy and Mini boss Design
+
+<img src="images/BurningSword-MindMap.png?raw=true"/>
+
+Design flowchart and mindmap of enemy about archetypes, modifiers, diffculty and design goal of each enemy document<br>
+I also got a permit to share the mindmap that i created  to communicated with other team (Concept art, Programmer, Animator) Here<br>
+[Burning Sword Death Sun Enemy's design mindmap](https://miro.com/app/board/uXjVJqSicZA=/?share_link_id=829933360085)<br>
 
 ## Other Feature and duty I've worked on it
 
