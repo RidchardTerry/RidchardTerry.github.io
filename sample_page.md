@@ -139,7 +139,7 @@ I've involved
 - Localized Thai to English version<br>
 <br>
 
-### Player HUD /Pause menu and Skill trees design prototype Version 2 (Published but outdated)
+### Player HUD /Pause menu and Skill trees design prototype Version 2 (Published in old demo version)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
