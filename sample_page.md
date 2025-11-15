@@ -83,11 +83,12 @@ I also got a permit to share the mindmap that i created  to communicated with ot
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Queqe up the attack sequence of a group of enemies, make it fair and playable<br><br>
+Make crowd fight less chaos and weight their attack token with logics. in the GIF show the shielder run into front of swordman and become the nearest one. So he is the one that attack player while the others is trying to surround player and wait for their 
+turn to attack player, make game more fair and playable. This also can be use for enemy's unite attacking<br><br>
 I've involved
 - Design document<br> 
 - Tune and development<br>
-- Behavior trees<br>
+- Behavior trees set up<br>
 - QA<br> 
 <br>
 
@@ -96,7 +97,7 @@ This feature has 3 versions of it. I've been involved the latest 2 versions. (th
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Version 2 : after break enemy's guard it will appear the orbs, player can press drain button to perform drain<br><br>
+Version 2 : after break enemy's guard it will appear the orbs, player can press drain button to perform drain<br><br> 
 I've involved
 - Design document<br> 
 - Tune and development<br>
