@@ -9,7 +9,7 @@
 
 ---
 [Tales Of Harmony : My personal project](/pdf/sample_presentation.pdf)
-<img src="TalesOfHarmony-Thumbnail.png?raw=true"/>
+<img src="images/TalesOfHarmony-Thumbnail.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
