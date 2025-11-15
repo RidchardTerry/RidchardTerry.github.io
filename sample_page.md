@@ -63,9 +63,9 @@ I've involved
 
 ### Perfect dodge system 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/perfectdodge small.gif?raw=true"/>
 
-after player dodge an attack in the blink of an eye before attack land, the time slow down<br><br>
+after player dodge an attack in the blink of an eye before attack land, the time slow down except the player<br><br>
 I've involved
 - Design Document<br>
 - Setup an QA<br>
