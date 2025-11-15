@@ -141,7 +141,7 @@ I've involved
 
 ### Player HUD /Pause menu and Skill trees design prototype Version 2 (Published in old demo version)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BurningSword-Asset.png?raw=true"/>
 
 I've involved
 - Skill trees R&D gameplay design along with Artstyle design<br>
