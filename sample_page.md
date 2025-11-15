@@ -31,7 +31,7 @@ I've been involved
 - QA<br>
 <br>
 
-### 2 Unpublished bosses (one is an nartial art warrior and another one is a creature)
+### 2 Unpublished bosses (one is an martial art warrior and another one is a creature)
 I've involved every process form start to finished as designer along with feature of that character used<br>
 
 ## Combat design
