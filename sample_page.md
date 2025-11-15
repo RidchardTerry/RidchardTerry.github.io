@@ -11,7 +11,7 @@ characters I've been involved
 
 <iframe width="1840" height="1035" src="https://www.youtube.com/embed/QeUVkJuvNiA" title="Burning Sword: Death Sun - Elite Guard Of Temple Boss Fight (Alpha) | Thai Dub [4K 60FPS] (PC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I've been involved every process form start to finished for designer<br>
+I've been involved every process form start to finished for designer
 - Design document<br> 
 - Craft prototype<br>
 - Craft polished version<br>
@@ -23,7 +23,7 @@ I've been involved every process form start to finished for designer<br>
 
 <iframe width="560" height="315" src="https://youtu.be/ji0s8Ym7c9Y?t=304" allowfullscreen></iframe>----------------------------------
 
-I've been involved<br>
+I've been involved
 - Design Some of animations as concept art (I can do art too)<br> 
 - Craft prototype<br>
 - Tune and develop system of boss (The needle missiles)<br>
@@ -40,8 +40,9 @@ Most of my duty is around the combat, Since it's hack and slash game.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-deflect an attack to gain resource and when the golden aura attack coming it will chang the deflect into parry and enable player to counter attack<br>
-I've involved<br>
+deflect an attack to gain resource and when the golden aura attack coming it will change the deflect into parry and enable player to counter attack<br>
+<br>
+I've involved
 - Design document<br> 
 - Tune and balance in UE<br>
 - QA<br>
@@ -52,8 +53,8 @@ I've involved<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Form the video, its show that player can counter attack in manys animation base on the parried attack.<br>
-Improve the interactions system (block / deflect / parry and counter attack / hurt) of player and any enemies. Make it can play special animontage if get attacked by special attack or any use case for prototype, improve quality of life for designer team and project.<br>
-I've involved<br>
+Improve the interactions system (block / deflect / parry and counter attack / hurt) of player and any enemies. Make it can play special animontage if get attacked by special attack or any use case for prototype, improve quality of life for designer team and project.<br><br>
+I've involved
 - Design document<br> 
 - Use it as a tool for create design (Of course, I'm designer ;).)<br> 
 - QA<br> 
@@ -63,8 +64,8 @@ I've involved<br>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-after player dodge an attack in the blink of an eye before attack land, the time slow down<br>
-I've involved<br>
+after player dodge an attack in the blink of an eye before attack land, the time slow down<br><br>
+I've involved
 - Design Document<br>
 - Setup an QA<br>
 
@@ -81,8 +82,8 @@ I also got a permit to share the mindmap that i created  to communicated with ot
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Queqe up the attack sequence of a group of enemies, make it fair and playable<br>
-I've involved<br>
+Queqe up the attack sequence of a group of enemies, make it fair and playable<br><br>
+I've involved
 - Design document<br> 
 - Tune and development<br>
 - Behavior trees<br>
@@ -94,8 +95,8 @@ This feature has 3 versions of it. I've been involved the latest 2 versions. (th
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Version 2 : after break enemy's guard it will appear the orbs, player can press drain button to perform drain<br>
-I've involved<br>
+Version 2 : after break enemy's guard it will appear the orbs, player can press drain button to perform drain<br><br>
+I've involved
 - Design document<br> 
 - Tune and development<br>
 - Balance stat and set up in currently enemy on that time<br>
@@ -104,8 +105,8 @@ I've involved<br>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Version 3 : Pair animation, then drain and executed enemy<br>
-I've involved<br>
+Version 3 : Pair animation, then drain and executed enemy<br><br>
+I've involved
 - Tune and develop, duo teamwork with programmer since it very delicated<br>
 - Set up<br>
 - QA<br>
@@ -118,7 +119,7 @@ This picture contain demo version of Burning Sword Death Sun in Steam demo. Not 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-I've involved<br>
+I've involved
 - Design player's stat progression and how to get it<br>
 - Design all skill in skill trees (around 80 skils)<br> 
 - Located it as a rewards in each levels and quest<br>
@@ -130,7 +131,7 @@ I've involved<br>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-I've involved<br>
+I've involved
 - UX Wireframe<br>
 - UI Art (Player stats, boss bar, equipped skills)<br>
 
