@@ -18,7 +18,7 @@
 ---
 
 ## Resume
-Click here to blink to my Resume
+[Click here to blink to my Resume](/pdf/sample_presentation.pdf)
 
 
 
