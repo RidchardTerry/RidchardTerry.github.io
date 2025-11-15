@@ -143,7 +143,7 @@ I’m experienced in working with localization dashboards and managing string ta
 
 ### Level design : Level demo for test
 
-<iframe width="560" height="315" src="https://youtu.be/QeUVkJuvNiA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBY0ODGuwUs" title="BURNING SWORD DEATH SUN New Gameplay Demo 12 Minutes 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I've been involved with blocking process and add enemies into combat zone. It's not a good level, have a lot of thing to improve but I familiar with working and communicating with environment teams to support a smooth production pipeline.<br>
 
