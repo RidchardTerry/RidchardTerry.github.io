@@ -105,7 +105,7 @@ I've involved
 - QA<br>
 <br>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DrainV3 small.gif?raw=true"/>
 
 Version 3 : Pair animation, then drain and executed enemy<br><br>
 I've involved
