@@ -9,7 +9,7 @@ You can try this game prologue chapter here [Burning Sword Death Sun Steam Demo]
 characters I've been involved
 ### Halberd Elite
 
-<iframe width="1840" height="1035" src="https://www.youtube.com/embed/QeUVkJuvNiA" title="Burning Sword: Death Sun - Elite Guard Of Temple Boss Fight (Alpha) | Thai Dub [4K 60FPS] (PC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QeUVkJuvNiA" title="Burning Sword: Death Sun - Elite Guard Of Temple Boss Fight (Alpha) | Thai Dub [4K 60FPS] (PC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I've been involved every process form start to finished for designer
 - Design document<br> 
