@@ -139,7 +139,7 @@ I've involved
 - Localized Thai to English version<br>
 <br>
 
-### Player HUD Version 2
+### Player HUD Version 2 (Published but outdated)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
