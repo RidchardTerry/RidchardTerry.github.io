@@ -153,7 +153,7 @@ I've involved
 I’m experienced in working with localization dashboards and managing string tables <br>
 <br>
 
-### Level design : Level demo for test
+### Level design : Level demo for Alpha test
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XBY0ODGuwUs" title="BURNING SWORD DEATH SUN New Gameplay Demo 12 Minutes 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
