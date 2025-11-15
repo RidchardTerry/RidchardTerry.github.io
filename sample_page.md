@@ -11,7 +11,7 @@ characters I've been involved
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QeUVkJuvNiA" title="Burning Sword: Death Sun - Elite Guard Of Temple Boss Fight (Alpha) | Thai Dub [4K 60FPS] (PC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I've been involved every process form start to finished for designer
+I've been involved every process form start to finished as designer
 - Design document<br> 
 - Craft prototype<br>
 - Craft polished version<br>
@@ -31,7 +31,7 @@ I've been involved
 <br>
 
 ### 2 Unpublished bosses (one is an nartial art warrior and another one is a creature)
-I've involved every process form start to finished for designer along with feature of that character used<br>
+I've involved every process form start to finished as designer along with feature of that character used<br>
 
 ## Combat design
 Most of my duty is around the combat, Since it's hack and slash game.
