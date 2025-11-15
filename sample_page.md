@@ -39,7 +39,7 @@ Most of my duty is around the combat, Since it's hack and slash game.
 
 ### Deflect / Parry and counter attack system 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/deflect and parry gif_small.gif?raw=true"/>
 
 deflect an attack to gain resource and when the golden aura attack coming it will change the deflect into parry and enable player to counter attack<br>
 <br>
