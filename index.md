@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Projects I’ve been part of
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Burning Sword Death Sun - Game designer](/sample_page)
+<img src="images/BurningSword-Thumbnail.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Tales Of Harmony : My personal project](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
