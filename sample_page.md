@@ -72,7 +72,7 @@ I've involved
 
 ### Hitstop System
 
-<img src="images/Special interaction small.gif?raw=true"/>
+<img src="images/hitstopsmall.gif?raw=true"/>
 
 when the attack of player landed on enemy its need the reaction that designer can tune in freeze frame style and freeze animontage style depend of what's better<br><br>
 I've involved
