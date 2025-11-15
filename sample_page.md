@@ -160,5 +160,4 @@ I’m experienced in working with localization dashboards and managing string ta
 I've been involved with blocking process and add enemies into combat zone. It's not a good level, have a lot of thing to improve but I familiar with working and communicating with environment teams to support a smooth production pipeline.<br>
 
 ### QA
-I’m good at identifying issues and often take responsibility for QA-ing features designed by my co-worker. I also cam handle full feature re-setups after programmer finished refactors—tasks that require patience and attention to detail. My results solid but still have some mistake (of course I’m still human). When errors reported form what I did involved, I take ownership and fix them.<br>
-
+I’m good at identifying issues and often take responsibility for QA-ing features designed by my co-worker. I also cam handle full feature re-setups after programmer finished refactors—tasks that require patience and attention to detail. My results solid but still have some mistake (of course I’m still human). When errors reported form what I did involved, I take ownership and fix them.
