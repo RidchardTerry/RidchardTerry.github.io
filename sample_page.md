@@ -139,13 +139,15 @@ I've involved
 - Localized Thai to English version<br>
 <br>
 
-### Player HUD Version 2 (Published but outdated)
+### Player HUD /Pause menu and Skill trees design prototype Version 2 (Published but outdated)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 I've involved
-- UX Wireframe<br>
-- UI Art (Player stats, boss bar, equipped skills)<br>
+- Skill trees R&D gameplay design along with Artstyle design<br>
+- UX Wireframe layout<br>
+- UI Art asset (Player stats, boss bar, equipped skills)<br>
+- Animated sprite sheet<br>
 
 ### UE5 localization tools
 I’m experienced in working with localization dashboards and managing string tables <br>
