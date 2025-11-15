@@ -3,6 +3,7 @@
 ### Projects I’ve been part of 
 ---
 [Burning Sword Death Sun - Game designer 2023-2025](/sample_page)
+[Burning Sword Death Sun - Outsource concept artist 2022](/sample_page)
 <img src="images/BurningSword-Thumbnail.png?raw=true"/>
 
 ---
