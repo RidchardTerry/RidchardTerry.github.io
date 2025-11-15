@@ -1,7 +1,8 @@
 ## ฺBurning Sword Death Sun
 
 **Project description:** Burning Sword: Death Sun is a Wuxia hack n' slash game. Play as the great fighter, Zhāng Yì Xiàn, who seeks revenge for the death of his family at the hands of China's powerful Gāo Tiān Qí. Dive into a tale of revenge, redemption, martial arts, and intense swordplay.<br>
-You can try this game prologue chapter here [Burning Sword Death Sun Steam Demo](https://store.steampowered.com/app/2561460/Burning_Sword_Death_Sun/).<br>
+[You can try this game prologue chapter here](https://store.steampowered.com/app/2561460/Burning_Sword_Death_Sun/).<br>
+Development under UE5
 
 # feature I've been designed for this project
 
@@ -52,7 +53,7 @@ I've involved
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Form the video, its show that player can counter attack in manys animation base on the parried attack.<br>
+Form the video, its show that player can counter attack in manys animation base on the parried attack.<br><br>
 Improve the interactions system (block / deflect / parry and counter attack / hurt) of player and any enemies. Make it can play special animontage if get attacked by special attack or any use case for prototype, improve quality of life for designer team and project.<br><br>
 I've involved
 - Design document<br> 
@@ -127,7 +128,7 @@ I've involved
 - Localized Thai to English version<br>
 <br>
 
-###Player HUD Version 2
+### Player HUD Version 2
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -139,12 +140,12 @@ I've involved
 I’m experienced in working with localization dashboards and managing string tables <br>
 <br>
 
-###Level design : Level demo for test
+### Level design : Level demo for test
 
 <iframe width="560" height="315" src="https://youtu.be/QeUVkJuvNiA" frameborder="0" allowfullscreen></iframe>
 
 I've been involved with blocking process and add enemies into combat zone. It's not a good level, have a lot of thing to improve but I familiar with working and communicating with environment teams to support a smooth production pipeline.<br>
 
-###QA
+### QA
 I’m good at identifying issues and often take responsibility for QA-ing features designed by my co-worker. I also cam handle full feature re-setups after programmer finished refactors—tasks that require patience and attention to detail. My results solid but still have some mistake (of course I’m still human). When errors reported form what I did involved, I take ownership and fix them.
 
