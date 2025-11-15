@@ -51,7 +51,7 @@ I've involved
 
 ### Special animation interaction override system 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Special interaction small.gif?raw=true"/>
 
 Form the video, its show that player can counter attack in manys animation base on the parried attack.<br><br>
 Improve the interactions system (block / deflect / parry and counter attack / hurt) of player and any enemies. Make it can play special animontage if get attacked by special attack or any use case for prototype, improve quality of life for designer team and project.<br><br>
@@ -119,7 +119,7 @@ I've involved
 ### design player skill trees / player progression (Unpublished yet)
 This picture contain demo version of Burning Sword Death Sun in Steam demo. Not 100% of the work I've did.
 
-<img src="images/BurningSword-OldSkillTree?raw=true"/>
+<img src="images/BurningSword-OldSkillTree.png?raw=true"/>
 
 I've involved
 - Design player's stat progression and how to get it<br>
