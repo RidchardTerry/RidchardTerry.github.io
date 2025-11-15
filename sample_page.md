@@ -146,8 +146,8 @@ I've involved
 I've involved
 - Skill trees R&D gameplay design along with Artstyle design<br>
 - UX Wireframe layout<br>
-- UI Art asset (Player stats, boss bar, equipped skills)<br>
-- Animated sprite sheet<br>
+- UI Art asset (Player stats, boss bar, Skill trees)<br>
+- Animated sprite sheet (Boss guardbar)<br>
 
 ### UE5 localization tools
 I’m experienced in working with localization dashboards and managing string tables <br>
