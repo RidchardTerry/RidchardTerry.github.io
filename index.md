@@ -8,7 +8,7 @@
 <img src="images/BurningSword-Thumbnail.png?raw=true"/>
 
 ---
-[Tales Of Harmony : My personal project](/pdf/sample_presentation.pdf)
+[Tales Of Harmony : My personal project (Pre-production)](/pdf/sample_presentation.pdf)
 <img src="images/TalesOfHarmony-Thumbnail.png?raw=true"/>
 
 ---
