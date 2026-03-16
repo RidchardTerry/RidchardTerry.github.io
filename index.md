@@ -8,7 +8,7 @@
 
 ---
 ###Tales Of Harmony : My personal project (Pre-production)<br>
-[Concept design (Art)](/pdf/sample_presentation.pdf)<br>
+[Example of Concept design (Art)](/pdf/sample_presentation.pdf)<br>
 [Example of Game Design document (Eng)](/pdf/sample_presentation.pdf)<br>
 <img src="images/TalesOfHarmony-Thumbnail.png?raw=true"/>
 
