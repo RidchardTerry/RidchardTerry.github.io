@@ -121,8 +121,8 @@ I've involved
 <img src="images/BurningSword-MindMap.png?raw=true"/>
 
 Design flowchart and mindmap of enemy about archetypes, modifiers, diffculty and design goal of each enemy document<br>
-I also got a permit to share the mindmap that i created  to communicated with other team (Concept art, Programmer, Animator) Here<br>
-[Burning Sword Death Sun Enemy's design mindmap](https://miro.com/app/board/uXjVJqSicZA=/?share_link_id=829933360085)<br>
+created  to communicated with other team (Concept art, Programmer, Animator)<br>
+
 
 ## Other Feature and duty I've worked on it
 
