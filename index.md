@@ -7,12 +7,14 @@
 <img src="images/BurningSword-Thumbnail.png?raw=true"/>
 
 ---
-[Tales Of Harmony : My personal project (Pre-production)](/pdf/sample_presentation.pdf)
+###Tales Of Harmony : My personal project (Pre-production)
+[Concept design (Art)](/pdf/sample_presentation.pdf)<br>
+[Example of Game Design document (Eng)](/pdf/sample_presentation.pdf)<br>
 <img src="images/TalesOfHarmony-Thumbnail.png?raw=true"/>
 
 ---
 
-## Resume
+## CV/Resume
 [Click here to blink to my Resume](/pdf/sample_presentation.pdf)
 
 ---
