@@ -4,19 +4,17 @@
 ### Burning Sword : Death Sun
 ---
 [Burning Sword Death Sun - Game designer 2023-2025](/sample_page)<br>
-[Burning Sword Death Sun - Outsource concept artist 2022](/sample_page)
 <img src="images/BurningSword-Thumbnail.png?raw=true"/>
 
 ---
-### Tales Of Harmony : My personal project (Pre-production)<br>
-[Example of Concept design (Art)](/pdf/sample_presentation.pdf)<br>
-[Example of Game Design document (Eng)](/pdf/sample_presentation.pdf)<br>
+### Tales Of Harmony : My personal project (Drive) (Pre-production)<br>
+[Example of Game Design document](https://drive.google.com/file/d/1teT03eZit07Q1DFuPKYsee6jonS1dyGK/view?usp=drive_link)<br>
 <img src="images/TalesOfHarmony-Thumbnail.png?raw=true"/>
 
 ---
 
 ## CV/Resume
-[Click here to blink to my Resume](/pdf/sample_presentation.pdf)
+[Click here to blink to my Resume](/pdf/Resume_Pattanan2026.pdf)
 
 ---
 <p style="font-size:11px">Special thanks: Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
