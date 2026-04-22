@@ -1,7 +1,6 @@
 ## ฺBurning Sword Death Sun
 
 **Project description:** Burning Sword: Death Sun is a Wuxia hack n' slash game. Play as the great fighter, Zhāng Yì Xiàn, who seeks revenge for the death of his family at the hands of China's powerful Gāo Tiān Qí. Dive into a tale of revenge, redemption, martial arts, and intense swordplay.<br>
-[You can try this game prologue chapter here](https://store.steampowered.com/app/2561460/Burning_Sword_Death_Sun/).<br>
 Development under UE5
 
 # feature I've been designed for this project
